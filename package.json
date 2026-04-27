@@ -1,0 +1,19 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "7/24 Discord Müzik Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.17.0",
+    "yt-search": "^2.10.4",
+    "ffmpeg-static": "^5.2.0",
+    "opusscript": "^0.0.8"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
